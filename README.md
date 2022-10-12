@@ -1,8 +1,22 @@
-- 👋 Hi, I’m Norah Taylor
-- 👀 I’m interested in tech, travel, and food.
-- 💻 I love coding in React.js, Ruby on Rails, and JavaScript.
+👋  Hi, I’m Norah Taylor
+
+Full-stack software engineer. My career began in sales and customer success in Green Technology and has taken me to web development. I am excited to continue helping companies create technology that improves people's lives. 
+
+- 👀 I'm experienced in JavaScript, Ruby on Rails, React.js, HTML, CSS, and SQL.
 - 🌱 I’m currently learning Python and TypeScript. 
-- 💞️ I’m looking to collaborate on projects in food and beverage tech. 
-- 📫 How to reach me emt368@gmail.com
+- 🎵 I love coding listening to Deep House music.
+- ⭐ When I'm not coding I love reading in the park, swimming, and trying unique food. 
+
+💻  I'm currently working on aditional features for my dating app, Git Committed, at www.git-committed-app.herokuapp.com
+- Building Git Committed on React Native
+- Live chat  
+- Geolocation 
+- Active Storage 
+
+Let's Collaborate!
+
+📫  Email emt368@gmail.com
+
+👉  Connect at www.linkedin.com/in/elenorahtaylor
 
 
