@@ -4,8 +4,8 @@ Full-stack software engineer. My career began in sales and customer success in G
 
 - 👀 I'm experienced in JavaScript, Ruby on Rails, React.js, HTML, CSS, and SQL.
 - 🌱 I’m currently learning Python and TypeScript. 
-- 🎵 I love coding listening to Deep House music.
-- ⭐ When I'm not coding I love reading in the park, swimming, and trying unique food. 
+- 🎵 I love coding while listening to Deep House music.
+- ⭐ When I'm not coding I enjoy reading in the park, swimming, and trying unique food. 
 
 💻  I'm currently working on aditional features for my dating app, Git Committed, at www.git-committed-app.herokuapp.com
 - Building Git Committed on React Native
