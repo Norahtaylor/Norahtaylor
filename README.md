@@ -1,4 +1,4 @@
-👋  Hi, I’m Norah Taylor
+👋  Hi, I’m Norah
 
 Full-stack software engineer. My career began in sales and customer success in Green Technology and has taken me to web development. I am excited to continue helping companies create technology that improves people's lives. 
 
