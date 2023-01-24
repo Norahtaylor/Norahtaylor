@@ -8,7 +8,7 @@ Full stack web development. Background in project management, sales, and custome
 - 🎵 I love coding while listening to Deep House music.
 - ⭐ When I'm not coding I enjoy reading in the park, swimming, and trying unique food. 
 
-💻  I'm working on aditional features for my dating app, Git Committed, at www.git-committed-app.herokuapp.com
+💻  I'm working on aditional features for my dating app, Git Committed.
 - Building Git Committed on React Native
 - Live chat  
 - Geolocation 
