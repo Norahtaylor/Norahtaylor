@@ -1,6 +1,6 @@
 👋  Hi, I’m Norah
 
-Full stack web development. Background in project management, sales, and customer success. Obsessed with emerging music tech. Excited to continue helping companies create technology that improves people's lives. 
+Full stack web development. Background in account management, SaaS sales, and customer success. Obsessed with emerging tech. Excited to continue helping companies create technology that improves people's lives. 
 
 - 👀 I'm experienced in JavaScript, Ruby on Rails, React.js, HTML, CSS, and SQL.
 - 🌐 My last few jobs were in climate and sustainability tech. 
